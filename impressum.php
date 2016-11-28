@@ -6,14 +6,22 @@
     8010 Graz</p>
 
 <p>Kontakt<br/>
-    <a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#105;&#110;&#102;&#111;&#064;&#107;&#097;&#109;&#101;&#114;&#097;&#115;&#099;&#104;&#101;&#117;&#046;&#097;&#116;">E-Mail</a>
+    <a href="mailto:lv-steiermark@piratenpartei.at">E-Mail</a>
 </p>
-
 
 <p><a href='https://www.facebook.com/kamerascheuer'>kamerascheu auf Facebook</a></p>
 
 
 <h4>Weitere Links</h4>
-<p><a href='https://www.facebook.com/groups/342493119205126/'>Unterstützergruppe auf Facebook</a></p>
-<p><a href='http://www.facebook.com/piratenStmk'>Piratenpartei Steiermark auf Facebook</a></p>
-<p><a href='https://twitter.com/piratenstmk'>Piratenpartei Steiermark auf Twitter</a></p>
+
+<ul>
+    <li>
+        <a href="https://www.facebook.com/groups/342493119205126/">Unterstützergruppe auf Facebook</a>
+    </li>
+    <li>
+        <a href="https://www.facebook.com/piratengraz">Piratenpartei Graz auf Facebook</a>
+    </li>
+    <li>
+        <a href="https://twitter.com/PiratenGraz">Piraten Graz auf Twitter</a>
+    </li>
+</ul>
