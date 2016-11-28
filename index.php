@@ -1,4 +1,4 @@
-<?
+<?php
 
 $t = '';
 if (isset($_GET['t']))
