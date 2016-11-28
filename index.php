@@ -37,7 +37,7 @@
                     <div class="navbar-inner">
                         <div class="container">
                             <ul class="nav">
-                                <li <?php echo ($t === '') ? 'class="active"' : ''; ?>><a href="index.php">Startseite</a></li>
+                                <li <?php echo ($t === '') ? 'class="active"' : ''; ?>><a href="/">Startseite</a></li>
                                 <li <?php echo ($t === 'unterstuetzen') ? 'class="active"' : ''; ?>><a href="?t=unterstuetzen">Helfen
                                         Sie mit!</a></li>
                                 <li <?php echo ($t === 'impressum') ? 'class="active"' : ''; ?>><a
@@ -57,9 +57,6 @@
                     break;
                 case 'kosten':
                     include("kosten.php");
-                    break;
-                case 'video':
-                    include("video.php");
                     break;
                 case 'unterstuetzen':
                     include("unterstuetzen.php");
@@ -87,17 +84,17 @@
 
             <div class="footer">
                 <p>
-                    <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>
+                    <a href="//creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>
                     &copy;
                     <a href='?t=impressum'>Piratenpartei Steiermark</a> <?php echo date('Y'); ?> -
-                    <a href="https://www.facebook.com/kamerascheuer">kamerascheu auf Facebook</a> -
-                    <a href="https://twitter.com/PiratenGraz">Folge uns auf Twitter</a>
+                    <a href="//www.facebook.com/kamerascheuer">kamerascheu auf Facebook</a> -
+                    <a href="//twitter.com/PiratenGraz">Folge uns auf Twitter</a>
                 </p>
             </div>
 
         </div> <!-- /container -->
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script src="js/bootstrap-transition.js"></script>
         <script src="js/bootstrap-alert.js"></script>
         <script src="js/bootstrap-modal.js"></script>
