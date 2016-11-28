@@ -1,4 +1,5 @@
 <?php
+require_once("mysqlconn.php");
 
 echo "<!-- ";
 print_r($_POST);
@@ -28,7 +29,7 @@ if (strlen($inputName) < 4) {
 }
 
 if (!($stmt = $mysqli->prepare("INSERT INTO unterzeichner(name, email, ort, adresse, land, anonym) VALUES (?, ?, ?, ?, ?, ?)"))) {
-    echo "Prepare failed: (" . $mysqli->errno . ") " . $mysqli->error;
+    echo "Prepare failed: (" . $stmt->errno . ") " . $stmt->error;
     $error = 1;
 }
 

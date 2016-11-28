@@ -4,7 +4,7 @@ $host = '';
 $username = '';
 $passwd = '';
 $dbname = '';
-$port = '';
+$port = 3306;
 $socket = '';
 
 $mysqli = new mysqli($host, $username, $passwd, $dbname, $port, $socket);
