@@ -1,24 +1,28 @@
 <h2>Helfen Sie mit!</h2>
 
 
-<p>Unterstützen Sie uns mit der Forderung nach einer rasche Umsetzung der Liveübertragung der öffentlichen Gemeinderatssitzungen aus dem Grazer Rathaus ins Internet.</p>
+<p>Unterstützen Sie uns mit der Forderung nach einer rasche Umsetzung der Liveübertragung der öffentlichen
+    Gemeinderatssitzungen aus dem Grazer Rathaus ins Internet.</p>
 
 <h3>Unterzeichnen Sie</h3>
 
-<p>Unterzeichnen Sie die Petition zur rasche Umsetzung der Übertragung aus dem Gemeinderat und zeigen Sie, dass Ihnen Bürgerbeteiligung wichtig ist.</p> 
+<p>Unterzeichnen Sie die Petition zur rasche Umsetzung der Übertragung aus dem Gemeinderat und zeigen Sie, dass Ihnen
+    Bürgerbeteiligung wichtig ist.</p>
 <p><a class="btn btn-large btn-success" href="?t=petition">Hier gelangen Sie zur Petition</a></p>
 
-<hr />
+<hr/>
 
 <h3>Unterstützen Sie uns mit einer Spende</h3>
 
-<p>Um unserem Anliegen mehr Kraft zu verleihen möchten wir diese Kampagne ausweiten. Dazu benötigen wir finanzielle Mittel.</p>
+<p>Um unserem Anliegen mehr Kraft zu verleihen möchten wir diese Kampagne ausweiten. Dazu benötigen wir finanzielle
+    Mittel.</p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="JKZE3DDLWVXTA">
-<input type="image" src="https://www.paypalobjects.com/de_DE/AT/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
-<img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="JKZE3DDLWVXTA">
+    <input type="image" src="https://www.paypalobjects.com/de_DE/AT/i/btn/btn_donateCC_LG.gif" border="0" name="submit"
+           alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
+    <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
 </form>
 
 
@@ -32,10 +36,10 @@
 <p>BLZ: 60000</p>
 <p>IBAN: AT916000050110110437</p>
 <p>BIC: OPSKATWW</p>
- 
+
 <p>Geben Sie als Verwendungszweck bitte "Live-Stream Graz" an.</p>
 <p></p>
 
-<hr />
+<hr/>
 
 <h1>Vielen Dank für Ihre Unterstützung!</h1>

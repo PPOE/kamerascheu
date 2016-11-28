@@ -1,9 +1,9 @@
 <h2>Andere Städte machen es vor</h2>
 
 
-<p>Was in Graz immer wieder in den Mühlen der Bürokratie versandete, 
-hat sich in anderen Städten bereits als erfolgreicher Standard etabliert. 
-Darunter sind Salzburg, Linz, Wels und nicht zu vergessen der steirische Landtag.
+<p>Was in Graz immer wieder in den Mühlen der Bürokratie versandete,
+    hat sich in anderen Städten bereits als erfolgreicher Standard etabliert.
+    Darunter sind Salzburg, Linz, Wels und nicht zu vergessen der steirische Landtag.
 </p>
 
 <h4>Links</h4>
