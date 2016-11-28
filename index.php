@@ -89,7 +89,7 @@
                 <p>
                     <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>
                     &copy;
-                    <a href='?t=impressum'>Piratenpartei Steiermark</a> 2013 -
+                    <a href='?t=impressum'>Piratenpartei Steiermark</a> <?php echo date('Y'); ?> -
                     <a href="https://www.facebook.com/kamerascheuer">kamerascheu auf Facebook</a> -
                     <a href="https://twitter.com/PiratenGraz">Folge uns auf Twitter</a>
                 </p>

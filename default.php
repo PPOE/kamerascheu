@@ -14,8 +14,10 @@
     <div class="span4">
         <h2>Wo kein Wille...</h2>
 
-        <p>Seit 2007 beschäftigt sich der Gemeinderat mit dem Thema Live-Übertragung der öffentlichen Sitzungen. Sechs
-            Jahre später ist immer noch nichts passiert. Warum eigentlich?</p>
+        <p>
+            Seit 2007 beschäftigt sich der Gemeinderat mit dem Thema Live-Übertragung der öffentlichen Sitzungen.
+            <del>Sechs</del> <del>Sieben</del> <del>Acht</del> Neun Jahre später ist immer noch nichts passiert. Warum eigentlich?
+        </p>
     </div>
     <div class="span4">
         <h2>Gemeinderatsantrag</h2>

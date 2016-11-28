@@ -19,7 +19,7 @@
         <a href="https://www.facebook.com/groups/342493119205126/">Unterstützergruppe auf Facebook</a>
     </li>
     <li>
-        <a href="https://www.facebook.com/piratengraz">Piratenpartei Graz auf Facebook</a>
+        <a href="https://www.facebook.com/piratengraz">Piraten Graz auf Facebook</a>
     </li>
     <li>
         <a href="https://twitter.com/PiratenGraz">Piraten Graz auf Twitter</a>
