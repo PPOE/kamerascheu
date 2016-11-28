@@ -12,6 +12,3 @@
 <p><a href="http://www.linz.at/politik_verwaltung/60625.asp">Budget-Gemeinderat Linz</a></p>
 <p><a href="http://www.wels.at/wels/page/679995597123214884_0_698104080607712398,de.html">Gemeinderat Wels</a></p>
 <p><a href="http://www.landtag.steiermark.at/cms/ziel/58056523/DE/">Landtag Steiermark</a></p>
-
-
-

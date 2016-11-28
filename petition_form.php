@@ -127,4 +127,3 @@ while ($row = $result->fetch_assoc()) {  // NULL ist äquivalent zu false
 <script>
     $(function () { $("input").not("[type=submit]").jqBootstrapValidation(); });
 </script>
-

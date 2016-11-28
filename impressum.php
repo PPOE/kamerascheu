@@ -17,4 +17,3 @@
 <p><a href='https://www.facebook.com/groups/342493119205126/'>Unterstützergruppe auf Facebook</a></p>
 <p><a href='http://www.facebook.com/piratenStmk'>Piratenpartei Steiermark auf Facebook</a></p>
 <p><a href='https://twitter.com/piratenstmk'>Piratenpartei Steiermark auf Twitter</a></p>
-

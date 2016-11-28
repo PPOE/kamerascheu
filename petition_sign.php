@@ -47,6 +47,3 @@ if (!$error) {
 }
 
 $mysqli->close();
-
-
-?>
