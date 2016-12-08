@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<?php
+
+require_once("mysqlconn.php");
+
+?>
 <html lang="de">
     <head>
         <meta charset="utf-8">
@@ -20,6 +25,28 @@
 
         <!-- Fav and touch icons -->
         <link rel="shortcut icon" href="favicon.ico">
+
+<?php
+    if (isset($piwikUrl) && $piwikUrl !== '' && isset($piwikSiteId)) {
+?>
+        <!-- Piwik -->
+        <script type="text/javascript">
+            var _paq = _paq || [];
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u="<?php echo $piwikUrl; ?>";
+                _paq.push(['setTrackerUrl', u+'piwik.php']);
+                _paq.push(['setSiteId', '<?php echo $piwikSiteId; ?>']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+        <noscript><p><img src="<?php echo $piwikUrl; ?>piwik.php?idsite=<?php echo $piwikSiteId; ?>" style="border:0;" alt="" /></p></noscript>
+        <!-- End Piwik Code -->
+<?php
+    }
+?>
     </head>
 
     <body>

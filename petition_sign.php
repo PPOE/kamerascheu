@@ -1,6 +1,4 @@
 <?php
-require_once("mysqlconn.php");
-
 echo "<!-- ";
 print_r($_POST);
 echo " --> ";
@@ -25,8 +23,6 @@ if (strlen($_POST['email']) > 0) {
     echo "nt";
     exit();
 }
-
-require_once("mysqlconn.php");
 
 if (strlen($inputName) < 4) {
     $error = 1;
