@@ -19,24 +19,24 @@
     Mittel. Wir freuen uns über jede Unterstützung!
 </p>
 
-<h4>Kontoverbindung</h4>
+<h4>Bankverbindung</h4>
 
 <table class="table">
     <tr>
         <th>Kontoinhaber</th>
-        <td>Piratenpartei Österreichs</td>
+        <td>Piratenpartei Steiermark</td>
     </tr>
     <tr>
         <th>Bankinstitut</th>
-        <td>BAWAG/P.S.K.</td>
+        <td>Steiermärkische Sparkasse</td>
     </tr>
     <tr>
         <th>IBAN</th>
-        <td>AT916000050110110437</td>
+        <td>AT91 2081 5000 4037 1353</td>
     </tr>
     <tr>
         <th>BIC</th>
-        <td>OPSKATWW</td>
+        <td>STSPAT2GXXX</td>
     </tr>
     <tr>
         <th>Verwendungszweck</th>
