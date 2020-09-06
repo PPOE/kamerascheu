@@ -1,11 +1,12 @@
-<h2>Impressum</h2>
+<h2>Kontakt</h2>
 
 <p>Medieninhaber</p>
-<p>Piratenpartei Steiermark<br/>
-    Radetzkystraße 3<br/>
-    8010 Graz</p>
+<p>
+    Piratenpartei Steiermark<br />
+    <a href="https://piraten-graz.at/rechtliches/impressum/">Impressum</a>
+</p>
 
-<p>Kontakt<br/>
+<p>
     <a href="mailto:lv-steiermark@piratenpartei.at">E-Mail</a>
 </p>
 
